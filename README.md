@@ -1,8 +1,8 @@
-**Blehyr's Balatro Cards**
+# **Blehyr's Balatro Cards**
 
 NOTE: This is just a sprite sheet that you can replace in the game's files to change the appearance of the cards. They will replace the default cards.
 
-Grab the regular 8BitDeck_opt2.png if you want the custom Ace cards I made, and the 8BitDeck_op2-NO-ACES.png if you don't want them. Custom aces can get confusing during gameplay so the option is there. Just remember to delete the '-NO-ACES' part from the name!
+*Grab the regular 8BitDeck_opt2.png if you want the custom Ace cards I made, and the 8BitDeck_opt2-NO-ACES.png if you don't want them. Custom aces can get confusing during gameplay so the option is there. Just remember to delete the '-NO-ACES' part from the name!*
 
 I use 7-zip for this
 1. Go to your Balatro local files and right click Balatro.exe and then 'open archive' using 7-zip
