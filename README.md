@@ -1,6 +1,6 @@
-Blehyr's Balatro Cards
+**Blehyr's Balatro Cards**
 
-This is just a sprite sheet that you can replace in the game's files to change the appearance of the cards. They will replace the default cards.
+NOTE: This is just a sprite sheet that you can replace in the game's files to change the appearance of the cards. They will replace the default cards.
 
 I use 7-zip for this
 1. Go to your Balatro local files and right click Balatro.exe and then 'open archive' using 7-zip
